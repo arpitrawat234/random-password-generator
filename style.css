@@ -1,0 +1,62 @@
+
+:root{
+    --GREENCOLOR:#10B981;
+    --GREY:#273549;
+}
+
+
+
+body{
+    margin: 0;
+   margin-left: 15%;
+    background-color:
+    #1F2937;
+    color: aliceblue;
+    font-size: 200%;
+    font-family: "inter";
+
+}
+/* Random password-line */
+.linetwo{
+color:var(--GREENCOLOR);
+white-space: nowrap;}
+    
+/* Second line  */
+h2{
+ font-weight: 150;
+}
+button{
+display: flex;
+background-color: var(--GREENCOLOR);
+color: aliceblue;
+font-size: 1.3rem;
+/* padding can increase the button size  */
+padding: 1.5rem;
+border-radius: 0.5rem;
+border: none;
+}
+button:hover,:focus{
+    background-color: #038559;
+}
+
+.op1{
+    display: inline-flex;
+    width: 15rem;
+    height: 3rem;
+    background-color: var(--GREY);
+    border-radius: 0.5rem;
+}
+.op2{
+    display: inline-flex;
+    width: 15rem;
+    height: 3rem;
+    background-color: var(--GREY);
+    margin-left: 10rem;
+    border-radius: 0.5rem;
+}
+
+
+    
+
+
+
