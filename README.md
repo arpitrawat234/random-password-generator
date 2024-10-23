@@ -22,9 +22,4 @@ The **Random Password Generator** is a simple web application designed to help u
 - CSS
 - JavaScript
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/random-password-generator.git
 
